@@ -14,7 +14,7 @@ menu_icon: house-door
         {% if site.registration_status == "soon" or site.registration_status == "open" or site.registration_status == "demo" %}
             <dt>{{ site.registration_opens_date }}</dt>
             <dd>
-                Applications open for participants<br>
+                Registration open for participants<br>
                 {% if site.registration_status == 'open' %}
                     <a href="{{ site.baseurl }}{% link registration.md %}" class="btn">Register now</a>
                 {% elsif site.registration_status == 'closed' %}
@@ -26,10 +26,10 @@ menu_icon: house-door
         {% endif %}
 
         <dt>{{ site.registration_closes_date }}</dt>
-        <dd>Applications close</dd>
+        <dd>Registration close</dd>
 
         <dt>{{ site.event_date }}</dt>
-        <dd>Hackathon date</dd>
+        <dd>Nordic Love Data Week</dd>
     </dl>
 </div>
 
