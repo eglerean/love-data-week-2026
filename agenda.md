@@ -4,7 +4,7 @@ menu_title: Agenda
 menu_icon: clock
 event_status:
  - soon
- - now
+# - now
 ---
 
 ## Day 1
