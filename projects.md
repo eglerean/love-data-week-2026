@@ -1,6 +1,6 @@
 ---
 layout: project_list
-title: Data management projects
+title: Project - where’s the data?
 menu_title: Projects
 menu_icon: briefcase
 ---
