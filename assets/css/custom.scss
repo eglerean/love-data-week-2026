@@ -1,0 +1,12 @@
+---
+---
+
+.agenda {
+  table-layout: auto;
+  width: 100%;
+}
+
+.agenda th:nth-child(4),
+.agenda td:nth-child(4) {
+  width: 50%;
+}

@@ -147,3 +147,8 @@ defaults:
 # Simplify tables of contents
 kramdown:
   toc_levels: "2,3"
+
+#Testing width change in Agenda page
+sass:
+  style: compressed
+
