@@ -345,33 +345,27 @@ ul.grid {
   overflow-wrap: break-word;
 }
 
-/* Column 1: Time (normal) */
-.agenda th:nth-child(1),
-.agenda td:nth-child(1) {
+/* Column 1: Time */
+.agenda tr > *:nth-child(1) {
   width: 11%;
 }
 
-/* Column 2: Event Title (double normal) */
-.agenda th:nth-child(2),
-.agenda td:nth-child(2) {
-  width: 15%;
+/* Column 2: Event Title */
+.agenda tr > *:nth-child(2) {
+  width: 22%;
 }
 
-/* Column 3: Where to go (normal) */
-.agenda th:nth-child(3),
-.agenda td:nth-child(3) {
-  width: 18%;
+/* Column 3: Where to go */
+.agenda tr > *:nth-child(3) {
+  width: 11%;
 }
 
-/* Column 4: Event Details (four times normal) */
-.agenda th:nth-child(4),
-.agenda td:nth-child(4) {
-  width: 38%;
+/* Column 4: Event Details */
+.agenda tr > *:nth-child(4) {
+  width: 44%;
 }
 
-/* Column 5: Organiser link (normal) */
-.agenda th:nth-child(5),
-.agenda td:nth-child(5) {
-  width: 17%;
+/* Column 5: Organiser link */
+.agenda tr > *:nth-child(5) {
+  width: 11%;
 }
-
