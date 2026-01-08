@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Heiæj Data Lovers!
+title: Hei Hej Data Lovers!
 menu_title: Home
 menu_icon: house-door
 ---
 
 {:.secondary}
-# {{ site.event_date }}, in association with Nordic Universities and Institutions
+# {{ site.event_date }}
 
 <div class="aside">
     <h2><i class="bi bi-calendar3"></i> Event timeline</h2>
@@ -35,17 +35,15 @@ menu_icon: house-door
 
 {% if site.event_status != "over" %}
 
-This year, for the first time, Nordic Love Data Week is organized by a consortium of Nordic universities, aiming to promote awareness and best practices in research data management, data sharing, and data literacy across the Nordic region.
+This year, for the first time, a Nordic Love Data Week is organized by several Nordic universities. We aim to promote awareness and best practices about research data management, data sharing, and data literacy across the Nordic region.
+We have several presentations to offer and also invite you to set aside some time with you research group for the Nordic "Where's the Data Day" on Thursday 12 February.
 
-## Logistics
+## When and where
 
-The event will take place virtually, using a combination of **video
-conferencing** (Zoom) for meetings and seminars, and **discussion forums**
-(Zoom group chat) for ongoing comms. Hands-on events on **Where's the Data Day** (Thursday 12 February) will...
+Visit the Agenda page (LINK) to find an online webinar or workshop of interest.
+Further, we invite research groups to create their own hands-on events on **Where's the Data Day** (LINK)
 
-## Outputs
-
-By the end of the event, we hope to...
+## Välkommen! Tervetuloa! Velkommen!
 
 [faq]: {{ site.baseurl }}{% link faq.md %}
 
