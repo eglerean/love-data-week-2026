@@ -35,17 +35,15 @@ menu_icon: house-door
 
 {% if site.event_status != "over" %}
 
-This year, for the first time, Nordic Love Data Week is organized by a consortium of Nordic universities, aiming to promote awareness and best practices in research data management, data sharing, and data literacy across the Nordic region.
+This year, for the first time, Nordic Love Data Week is organized by several Nordic universities, aiming to promote awareness and best practices in research data management, data sharing, and data literacy across the Nordic region.
+We have d
 
-## Logistics
+## When and where
 
-The event will take place virtually, using a combination of **video
-conferencing** (Zoom) for meetings and seminars, and **discussion forums**
-(Zoom group chat) for ongoing comms. Hands-on events on **Where's the Data Day** (Thursday 12 February) will...
+Visit the Agenda page to find an online webinar or workshop of interest
+Further, we invite research groups to Hands-on events on **Where's the Data Day** (Thursday 12 February) will...
 
-## Outputs
-
-By the end of the event, we hope to....
+## Välkommen! Tervetuloa! Velkommen!
 
 [faq]: {{ site.baseurl }}{% link faq.md %}
 
