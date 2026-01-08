@@ -12,7 +12,7 @@ event_status:
 {:.agenda}
 Time (CET)    | Activity | Where to go | Event details | Organiser link
 ------------- | -------- | ----------- | -------------- | ---------------
-10:00 – 11:00 | BRIGHT Data Catalog - Developing A Research Data Management Infrastructure   |  zoom link | I will share my experiences and opinions to solutions that we at BIRGHT trying to turn scattered research data into a coherent and well-governed asset. I will share our strategies for integrations of lab data, computational analyses, lab data and DMP. This presentation aims to stimuate discussions for architectural choices, lessons learned, and common pitfalls when building an end-to-end research data management infrastructure. | Test link for ograniser..... | 
+10:00 – 11:00 | BRIGHT Data Catalog - Developing A Research Data Management Infrastructure   |  zoom link | I will share my experiences and opinions to solutions that we at BIRGHT trying to turn scattered research data into a coherent and well-governed asset. I will share our strategies for integrations of lab data, computational analyses, lab data and DMP. This presentation aims to stimuate discussions for architectural choices, lessons learned, and common pitfalls when building an end-to-end research data management infrastructure. | Test link for ograniser.... | 
 11:00 – 12:00 |          |             |                | 
 12:00 – 13:00 |          |             |                | 
 13:00 – 14:00 |          |             |                | 
