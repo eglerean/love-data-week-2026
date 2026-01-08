@@ -45,7 +45,7 @@ conferencing** (Zoom) for meetings and seminars, and **discussion forums**
 
 ## Outputs
 
-By the end of the event, we hope to...
+By the end of the event, we hope to....
 
 [faq]: {{ site.baseurl }}{% link faq.md %}
 
