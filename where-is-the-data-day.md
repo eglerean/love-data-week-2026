@@ -36,8 +36,8 @@ Your university may also offer tailored workshops or consultations.
 Reach out to your library or data management support office — they’re always happy to help.
 
 ---
-## Where's the Data Day
+## Follow-up
 
 On Friday, we’ll host a drop‑in session for anyone who wants to share experiences, ask questions, or simply talk about how their “Where’s the Data Day” went.
 
-Let’s make data care a Nordic tradition.
+Let’s make Data Care a Nordic tradition.
