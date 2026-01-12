@@ -212,7 +212,7 @@ menu_icon: clock
         A drop‑in session for anyone who wants to share experiences, show examples of your lovely data, ask questions, or simply talk about how their “Where’s the Data Day” went. We promise to be amazed and cheer at anyone who feels comfortable enough to share their work with their data!! And we're very grateful for all kinds of feedback from participants
       </td>
       <td>
-        anyone who wants to - feel free to speak!<br>
+        Rosa Lönneborg<br>
         <strong>Speaker bio:</strong> Rosa Lönneborg will make an effort of being the friendly host (and preferably as many of you who wants to join)
       </td>
     </tr>
