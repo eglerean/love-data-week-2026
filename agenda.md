@@ -181,7 +181,6 @@ menu_icon: clock
       </td>
       <td>
         Nordic Love Data Week Team  
-        <br><strong>Speaker bio:</strong> (This is a community activity day; no individual speakers listed.)
       </td>
     </tr>
 
