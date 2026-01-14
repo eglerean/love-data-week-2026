@@ -22,7 +22,7 @@ menu_icon: briefcase
     <p>A playful nudge to get everyone thinking about the journey our research data takes — from planning and collection to storage, documentation, and long‑term preservation.</p>
     <p>On Thursday 12 February 2026, we invite research groups across the Nordics to join a shared moment of reflection, cleanup, and improvement.  
 Think of it as a spring‑cleaning day… but for <strong>your data</strong>.</p>
-    <p>Although it works great if you do activities as a group, you could also just (re)think about your data management strategies on how to make data more findable!</p>
+    <p>Set up activites for your research group to (re)think about your data management strategies on how to make data more findable!</p>
   </div>
 
 </div>
@@ -30,7 +30,8 @@ Think of it as a spring‑cleaning day… but for <strong>your data</strong>.</p
 ---
 ## Why join?
 
-- Time for your group to benefit from creating a data management plan template, so <strong>all group member can finally know where to find the data?</strong>
+Set aside a few hours to:
+- Create a data management plan template, so <strong>all group member can finally know where to find the data?</strong>
 - Improve reproducibility practices by start <strong>strategizing data storage location and duration</strong>.
 - Finally document the workflow so that not just creator understands, <strong>before creator forgot where is the workflow</strong>.
 - Ready to start publishing datasets alongside your scientific articles? Hmm...but <strong>where should I publish my datasets?</strong>
@@ -43,7 +44,7 @@ Whatever your situation, this is your moment to pause, breathe, and give your da
 Invite your research group to spend two or more hours to discuss and work with your own data practices. This is a self-administered event, so book your own room, coffee and most importantly a time slot! You can already now go through a RDM checklist to help decide which subject to dig into. **[Download the PDF Checklist]({{ site.baseurl }}{% link assets/LDW2026_cleanUp_checklist.pdf %})**
 
 
-During the Love Data Week, you are offered a range of online presentations and workshops arranged the previous day by Nordic Universities. The presentations can be an inspiration for your group’s work. [LINK] **[Presentations]**
+During the Love Data Week, you are offered a range of online presentations and workshops arranged the previous day by Nordic Universities. The presentations can be an inspiration for your group’s work. **[Presentation](https://dinhe878.github.io/love-data-week-2026/agenda/)**
 
 Your university may also offer tailored workshops or consultations. Reach out to your library or data management support office — they’re always happy to help.
 
