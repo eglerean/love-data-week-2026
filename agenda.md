@@ -111,7 +111,7 @@ menu_icon: clock
       <td>Where's the data to your article? Learn how to prepare a Data Availability Statement</td>
       <td><a href="https://dtudk.zoom.us/j/69571497149">Zoom link</a></td>
       <td>
-        Get an introduction to publishing data with Figshare that is a generalist repository service. The data repository of DTU, DTU Data, is part of the Figshare platform and will be used as example. Discover how the repository can be used for different data types and how to prepare supplementary data to be published with your articles.
+        Learn how to submit supporting data or code with your manuscript and how to prepare a data availability statement. Jitka will explain the workflow for integrating a data publication in the peer-review process of scientific articles. The data repository of DTU, [DTU Data](https://data.dtu.dk), is part of the [Figshare](https://figshare.com/) platform and will be used as an example. 
       </td>
       <td>
         <strong>Jitka Stilund Hansen</strong><br>
