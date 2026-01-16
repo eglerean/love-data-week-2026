@@ -138,7 +138,7 @@ menu_icon: clock
     <tr>
       <td>12:00 – 12:50</td>
       <td>Introduction to OpenRefine</td>
-      <td><a href="https://NTNU.zoom.us/j/92985347031?pwd=Q1hRNPJabruNOtOblT4lTsUhC1OGmo.1&jst=1">Zoom link</a></td>
+      <td><a href="https://dtudk.zoom.us/s/68896187093?pwd=OQlxYSAOrbcHtQlklRVa9Ab4n8QIyz.1">Zoom link</a></td>
       <td>
         OpenRefine is a powerful free, open source application for cleaning up messy data and transform the dataset into other formats. This webinar will inspire you to get started with OpenRefine. DTU researchers can book Jeannette for a workshop on Thursday 12 on a first-come-first-serve basis. This introduction is open to everyone.
       </td>
