@@ -22,10 +22,10 @@ menu_icon: clock
     <tr>
       <td>10:00 – 11:00</td>
       <td>FAIR data and how to check fairness of your data</td>
-      <td>Zoom link</td>
-      <td>In this webinar DeiC introduces you to the FAIR principles and make data reproducible</td>
+      <td><a href="https://deic.zoom.us/j/65412945886">Zoom link</a></td>
+      <td>In this webinar DeiC will introduce you to the FAIR principles and its importance to make data reproducible and aligned with research code of conduct(s).  You will also learn how to define the FAIRification rationale for your data by using self evaluation tools such as (e.g. F-UJI or FAIR evaluator) and get practical tips on how to get started to enhance it’s FAIRness.</td>
       <td>
-        <strong>Hanna Mihai</strong> and <strong>Sandra Boerman</strong> DeiC<br>
+        <strong>Hannah Mihai</strong> and <strong>Sandra Boerman</strong> are data management consultants from Danish e-infrastructure Consortium (DeiC)<br>
       </td>
     </tr>
 
@@ -37,15 +37,12 @@ menu_icon: clock
         The paper lab notebook has been the trusted companion of research laboratories for generations. But many research organisations are moving towards a more efficient solution to document experiments: the Electronic Lab Notebook. ELNs can save time, facilitate collaboration, enhance data integrity and reproducibility, and protect against data loss. Join us in this webinar to learn all about ELNs and how they are supporting good research management practices at Aalto University and NTNU.
       </td>
       <td>
-        <strong>Lara Ejtehadian</strong> (Aalto)
-        is a research Information Specialist and ELN System Administrator at Aalto University, will present Aalto’s Electronic Laboratory Notebook based on the open-source platform eLabFTW.
-        <br>
-        <strong>Matteo Iannacchero</strong> (Aalto)
-        is a doctoral researcher in multifunctional materials design, will introduce Aalto’s second ELN: the Aalto Materials Digitalization Platform, a custom-built system. Both platforms and their features for improving research data management will be discussed.
-        <br>
-        <strong>Srikar Yadala</strong> (NTNU)
-        is a researcher in NTNU’s Thermo-Fluids group and coordinator of the Fluid Mechanics Laboratory, is a superuser of RSpace. He will share insights on integrating ELNs into experimental research and his experience implementing RSpace to streamline workflows.
-        <br>
+        <p><strong>Lara Ejtehadian</strong> (Aalto)
+        is a research Information Specialist and ELN System Administrator at Aalto University, will present Aalto’s Electronic Laboratory Notebook based on the open-source platform eLabFTW.</p>
+        <p><strong>Matteo Iannacchero</strong> (Aalto)
+        is a doctoral researcher in multifunctional materials design, will introduce Aalto’s second ELN: the Aalto Materials Digitalization Platform, a custom-built system. Both platforms and their features for improving research data management will be discussed.</p>
+       <p><strong>Srikar Yadala</strong> (NTNU)
+        is a researcher in NTNU’s Thermo-Fluids group and coordinator of the Fluid Mechanics Laboratory, is a superuser of RSpace. He will share insights on integrating ELNs into experimental research and his experience implementing RSpace to streamline workflows.</p>
       </td>
     </tr>
 
