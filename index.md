@@ -130,11 +130,16 @@ menu_icon: house-door
     </div>
     <div style="flex: 1; padding: 0.5rem; border-left: 3px solid #e8f4f8;">
       <h4 style="margin: 0 0 0.5rem 0;">Wednesday, Feb 11</h4>
-      <p style="margin: 0 0 0.5rem 0; color: #555; font-size: 1.1em; font-weight: 600;">Searching for research data and Introduction to OpenRefine</p>
+      <p style="margin: 0 0 0.5rem 0; color: #555; font-size: 1.1em; font-weight: 600;">Search, Reproducible for research data, and Introduction to OpenRefine</p>
       <div style="margin: 0.5rem 0; padding: 0.5rem; border-left: 2px solid #d0d0d0;">
         <span style="color: #888; font-weight: 600; display: block; font-size: 0.95em;">10:00 – 11:00</span>
         <span style="color: #333; display: block; margin: 0.25rem 0;"><strong>Sacha Zurcher</strong></span>
         <a href="{{ site.baseurl }}{% link agenda.md %}#feb-11-wed" style="color: #3498db;">Searching for research data</a>
+      </div>
+      <div style="margin: 0.5rem 0; padding: 0.5rem; border-left: 2px solid #d0d0d0;">
+        <span style="color: #888; font-weight: 600; display: block; font-size: 0.95em;">10:00 – 11:00</span>
+        <span style="color: #333; display: block; margin: 0.25rem 0;"><strong>Kristoffer Gulmark Poulsen</strong></span>
+        <a href="{{ site.baseurl }}{% link agenda.md %}#feb-11-wed" style="color: #3498db;">FAIR by Default: Building Reproducible Digital Research Projects</a>
       </div>
       <div style="margin: 0.5rem 0; padding: 0.5rem; border-left: 2px solid #d0d0d0;">
         <span style="color: #888; font-weight: 600; display: block; font-size: 0.95em;">12:00 – 12:50</span>
