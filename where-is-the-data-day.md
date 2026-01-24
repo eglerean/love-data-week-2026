@@ -56,6 +56,6 @@ Your university may also offer tailored workshops or consultations. Reach out to
 ---
 ## Share your work
 
-On Friday, [a drop-in session](https://www.nordiclovedataweek.org/agenda/) is open for anyone wanting to discuss or share their experiences with the “Where’s the data Day”
+On Friday, <a href="{{ site.baseurl }}{% link agenda.md %}#feb-13-fri" style="color: #3498db;">a drop-in session</a> is open for anyone wanting to discuss or share their experiences with the “Where’s the data Day”
 
 Let’s make Data Care a Nordic tradition.
