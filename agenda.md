@@ -49,7 +49,10 @@ menu_icon: clock
     <tr>
       <td>14:00 – 14:45</td>
       <td>Where will my data end up? Selecting a high quality repository for the data underlying your published results</td>
-      <td><a href="https://kth-se.zoom.us/j/68389727657">Zoom link</a></td>
+      <td>
+        <a href="https://kth-se.zoom.us/j/68389727657">Zoom link</a>
+        <a href="https://www.kth.se/en/biblioteket/kalender/love-data-week-vart-tar-min-data-vagen-1.1452109">Event page</a>
+      </td>
       <td>
         There are numerous data repositories where you can deposit research data - In this session you can learn more on how to select a good repository. Introducing the audience to factors to consider when selecting a suitable repository to deposit data as a part of a trustworthy research practice -and increase the impact of your research as well. Some examples of research data from KTH data repository , Zenodo and the Swedish researchdata.se portal will be shown.
       </td>
@@ -92,7 +95,10 @@ menu_icon: clock
     <tr>
       <td>11:00 – 12:00</td>
       <td>Visualize your research data</td>
-      <td><a href="https://kth-se.zoom.us/j/68389727657">Zoom link</a></td>
+      <td>
+        <a href="https://kth-se.zoom.us/j/68389727657">Zoom link</a>
+        <a href="https://www.kth.se/en/biblioteket/kalender/love-data-week-visualisera-din-forskningsdata-1.1453168">Event page</a>
+        </td>
       <td>
         Do you want to improve the figures of your next article or presentation? Welcome to a seminar on how to visualize different types of research data in various contexts.
 

@@ -54,8 +54,8 @@ Your university may also offer tailored workshops or consultations. Reach out to
 **[SciComp garage at Aalto University](https://scicomp.aalto.fi/help/garage/)**
 
 ---
-## Share your work
+## Share and discuss your work
 
-On Friday, <a href="{{ site.baseurl }}{% link agenda.md %}#feb-13-fri" style="color: #3498db;">a drop-in session</a> is open for anyone wanting to discuss or share their experiences with the “Where’s the data Day”
+KTH offers [a drop-in session](https://www.kth.se/en/biblioteket/kalender/love-data-week-fa-hjalp-med-din-forskningsdata-drop-in-1.1453218) (09:00–15:00) for anyone wanting to discuss or share their experiences with the “Where’s the data Day”.
 
 Let’s make Data Care a Nordic tradition.
