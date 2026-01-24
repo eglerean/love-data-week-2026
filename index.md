@@ -26,7 +26,7 @@ menu_icon: house-door
     <div style="display: flex; gap: 2rem; justify-content: space-around; flex-wrap: wrap; margin-top: 2rem; padding: 1.5rem; background-color: #f5f5f5; border-radius: 8px;">
 
       <div style="text-align: center; flex: 1; min-width: 100px;">
-        <div style="font-size: 2.5em; font-weight: bold; color: #2c3e50;">9</div>
+        <div style="font-size: 2.5em; font-weight: bold; color: #2c3e50;">12</div>
         <div style="font-size: 0.95em; color: #555;">Sessions & Workshops</div>
       </div>
 
@@ -36,7 +36,7 @@ menu_icon: house-door
       </div>
 
       <div style="text-align: center; flex: 1; min-width: 100px;">
-        <div style="font-size: 2.5em; font-weight: bold; color: #2c3e50;">8+</div>
+        <div style="font-size: 2.5em; font-weight: bold; color: #2c3e50;">10+</div>
         <div style="font-size: 0.95em; color: #555;">Hours of Content</div>
       </div>
 
@@ -81,17 +81,17 @@ menu_icon: house-door
       <p style="margin: 0 0 0.5rem 0; color: #555; font-size: 1.1em; font-weight: 600;">FAIR data, Electronic Lab Notebooks, and data repository selection</p>
       <div style="margin: 0.5rem 0; padding: 0.5rem; border-left: 2px solid #d0d0d0;">
         <span style="color: #888; font-weight: 600; display: block; font-size: 0.95em;">10:00 – 11:00</span>
-        <span style="color: #333; display: block; margin: 0.25rem 0;"><strong>Hannah Mihai</strong></span>
+        <span style="color: #333; display: block; margin: 0.25rem 0;"><strong>Hannah Mihai</strong> (Deic)</span>
         <a href="{{ site.baseurl }}{% link agenda.md %}#feb-9-mon" style="color: #3498db;">FAIR data and how to check fairness of your data</a>
       </div>
       <div style="margin: 0.5rem 0; padding: 0.5rem; border-left: 2px solid #d0d0d0;">
         <span style="color: #888; font-weight: 600; display: block; font-size: 0.95em;">12:00 – 13:00</span>
-        <span style="color: #333; display: block; margin: 0.25rem 0;"><strong>Lara Ejtehadian</strong>, <strong>Matteo Iannacchero</strong>, <strong>Srikar Yadala</strong></span>
+        <span style="color: #333; display: block; margin: 0.25rem 0;"><strong>Lara Ejtehadian</strong> (Aalto), <strong>Matteo Iannacchero</strong> (Aalto), <strong>Srikar Yadala</strong> (NTNU)</span>
         <a href="{{ site.baseurl }}{% link agenda.md %}#feb-9-mon" style="color: #3498db;">Supporting good research management practices with Electronic Lab Notebooks</a>
       </div>
       <div style="margin: 0.5rem 0; padding: 0.5rem; border-left: 2px solid #d0d0d0;">
         <span style="color: #888; font-weight: 600; display: block; font-size: 0.95em;">14:00 – 14:45</span>
-        <span style="color: #333; display: block; margin: 0.25rem 0;"><strong>Rosa Lönneborg</strong></span>
+        <span style="color: #333; display: block; margin: 0.25rem 0;"><strong>Rosa Lönneborg</strong> (KTH)</span>
         <a href="{{ site.baseurl }}{% link agenda.md %}#feb-9-mon" style="color: #3498db;">Where will my data end up? Selecting a high quality repository for the data underlying your published results</a>
       </div>
     </div>
@@ -106,18 +106,23 @@ menu_icon: house-door
       <h4 style="margin: 0 0 0.5rem 0;">Tuesday, Feb 10</h4>
       <p style="margin: 0 0 0.5rem 0; color: #555; font-size: 1.1em; font-weight: 600;">Data visualization, data publication and data infrastructure</p>
       <div style="margin: 0.5rem 0; padding: 0.5rem; border-left: 2px solid #d0d0d0;">
+        <span style="color: #888; font-weight: 600; display: block; font-size: 0.95em;">10:00 – 10:45</span>
+        <span style="color: #333; display: block; margin: 0.25rem 0;"><strong>Søren Willer Hansen</strong> (KU)</span>
+        <a href="{{ site.baseurl }}{% link agenda.md %}#feb-10-tue" style="color: #3498db;">Automated large-scale text analysis</a>
+      </div>
+      <div style="margin: 0.5rem 0; padding: 0.5rem; border-left: 2px solid #d0d0d0;">
         <span style="color: #888; font-weight: 600; display: block; font-size: 0.95em;">11:00 – 12:00</span>
         <span style="color: #333; display: block; margin: 0.25rem 0;"><strong>Mattias Vesterlund</strong> (KTH)</span>
         <a href="{{ site.baseurl }}{% link agenda.md %}#feb-10-tue" style="color: #3498db;">Visualize your research data</a>
       </div>
       <div style="margin: 0.5rem 0; padding: 0.5rem; border-left: 2px solid #d0d0d0;">
         <span style="color: #888; font-weight: 600; display: block; font-size: 0.95em;">13:00 – 13:30</span>
-        <span style="color: #333; display: block; margin: 0.25rem 0;"><strong>Ding He</strong></span>
+        <span style="color: #333; display: block; margin: 0.25rem 0;"><strong>Ding He</strong> (DTU)</span>
         <a href="{{ site.baseurl }}{% link agenda.md %}#feb-10-tue" style="color: #3498db;">BRIGHT Data Catalog - Developing A Research Data Management Infrastructure</a>
       </div>
       <div style="margin: 0.5rem 0; padding: 0.5rem; border-left: 2px solid #d0d0d0;">
         <span style="color: #888; font-weight: 600; display: block; font-size: 0.95em;">14:00 – 14:30</span>
-        <span style="color: #333; display: block; margin: 0.25rem 0;"><strong>Jitka Stilund Hansen</strong></span>
+        <span style="color: #333; display: block; margin: 0.25rem 0;"><strong>Jitka Stilund Hansen</strong> (DTU)</span>
         <a href="{{ site.baseurl }}{% link agenda.md %}#feb-10-tue" style="color: #3498db;">Where's the data to your article? Learn how to prepare a Data Availability Statement</a>
       </div>
     </div>
@@ -133,18 +138,28 @@ menu_icon: house-door
       <p style="margin: 0 0 0.5rem 0; color: #555; font-size: 1.1em; font-weight: 600;">Search, Reproducible for research data, and Introduction to OpenRefine</p>
       <div style="margin: 0.5rem 0; padding: 0.5rem; border-left: 2px solid #d0d0d0;">
         <span style="color: #888; font-weight: 600; display: block; font-size: 0.95em;">10:00 – 11:00</span>
-        <span style="color: #333; display: block; margin: 0.25rem 0;"><strong>Sacha Zurcher</strong></span>
+        <span style="color: #333; display: block; margin: 0.25rem 0;"><strong>Sacha Zurcher</strong> (RUC)</span>
         <a href="{{ site.baseurl }}{% link agenda.md %}#feb-11-wed" style="color: #3498db;">Searching for research data</a>
       </div>
       <div style="margin: 0.5rem 0; padding: 0.5rem; border-left: 2px solid #d0d0d0;">
         <span style="color: #888; font-weight: 600; display: block; font-size: 0.95em;">11:00 – 12:00</span>
-        <span style="color: #333; display: block; margin: 0.25rem 0;"><strong>Kristoffer Gulmark Poulsen</strong></span>
+        <span style="color: #333; display: block; margin: 0.25rem 0;"><strong>Kristoffer Gulmark Poulsen</strong> (CBS)</span>
         <a href="{{ site.baseurl }}{% link agenda.md %}#feb-11-wed" style="color: #3498db;">FAIR by Default: Building Reproducible Digital Research Projects</a>
       </div>
       <div style="margin: 0.5rem 0; padding: 0.5rem; border-left: 2px solid #d0d0d0;">
         <span style="color: #888; font-weight: 600; display: block; font-size: 0.95em;">12:00 – 12:50</span>
-        <span style="color: #333; display: block; margin: 0.25rem 0;"><strong>Jeannette Ekstrøm</strong></span>
+        <span style="color: #333; display: block; margin: 0.25rem 0;"><strong>Jeannette Ekstrøm</strong> (DTU)</span>
         <a href="{{ site.baseurl }}{% link agenda.md %}#feb-11-wed" style="color: #3498db;">Introduction to OpenRefine</a>
+      </div>
+      <div style="margin: 0.5rem 0; padding: 0.5rem; border-left: 2px solid #d0d0d0;">
+        <span style="color: #888; font-weight: 600; display: block; font-size: 0.95em;">12:30 – 13:00</span>
+        <span style="color: #333; display: block; margin: 0.25rem 0;"><strong>Daniel Henry Øvrebø</strong> (UiB)</span>
+        <a href="{{ site.baseurl }}{% link agenda.md %}#feb-11-wed" style="color: #3498db;">Licensing research data for reuse</a>
+      </div>
+      <div style="margin: 0.5rem 0; padding: 0.5rem; border-left: 2px solid #d0d0d0;">
+        <span style="color: #888; font-weight: 600; display: block; font-size: 0.95em;">13:00 – 14:30</span>
+        <span style="color: #333; display: block; margin: 0.25rem 0;"><strong>Enrico Glerean</strong> (Aalto), <strong>Mari Elisa Kuusniemi</strong> (Univ Helsinki)</span>
+        <a href="{{ site.baseurl }}{% link agenda.md %}#feb-11-wed" style="color: #3498db;">Responsible Preservation of Research Data</a>
       </div>
     </div>
   </div>

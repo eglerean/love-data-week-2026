@@ -78,6 +78,18 @@ menu_icon: clock
   <tbody>
 
     <tr>
+      <td>10:00 – 10:45</td>
+      <td>Automated large-scale text analysis</td>
+      <td><a href="https://kbdk.zoom.us/j/66654941966">Zoom link</a></td>
+      <td>
+        Automated text analysis is a range of flexible and time-efficient methods for gaining insights from a large set of texts, whether they are texts that have been created in a digital format, interviews, or digitized versions of physical documents. The webinar will give an introduction to the potentials of automated text analysis, a basic introduction to how it works, as well as resources for getting started. Use of AI will also be mentioned.
+      </td>
+      <td>
+        <strong>Søren Willer Hansen</strong> works as a data analyst at the Copenhagen University Library, conducting bibliometric analyses for national and university stakeholders. As part of the university library's Datalab he teaches programming with the R language.
+      </td>
+    </tr>
+
+    <tr>
       <td>11:00 – 12:00</td>
       <td>Visualize your research data</td>
       <td><a href="https://kth-se.zoom.us/j/68389727657">Zoom link</a></td>
@@ -176,6 +188,36 @@ menu_icon: clock
       </td>
       <td>
         <strong>Jeannette Ekstrøm</strong><br> works with research support and teaching both student and researchers with methods for literature searching, literature review, using Generative AI as supplement for their workflow and also Reference Management and more. She has taken a Library Carpentry certification in OpenRefine
+      </td>
+    </tr>
+
+    <tr>
+      <td>12:30 – 13:00</td>
+      <td>Licensing research data for reuse</td>
+      <td>
+        <a href="https://uib.zoom.us/j/67342264349?pwd=vNcFbe4mCcHeaQUBHzDuJAa5GjWMVC.1">Zoom link</a>
+        <a href="https://www.uib.no/ub/181351/licensing-data-reuse">Event page</a>
+      </td>
+      <td>
+        Datasets archived in public repositories need proper licensing. This talk will take you through the most common licenses for data reuse, and discusses potential problems that could arise.
+      </td>
+      <td>
+        <strong>Daniel Henry Øvrebø</strong> (UiB) works as a research data specialist at the Royal Danish Library based at Roskilde University. She supports researchers, runs courses for Ph.D. students, and advises university management on issues related to research data. She has a background in human geography.
+      </td>
+    </tr>
+
+    <tr>
+      <td>13:00 – 14:30</td>
+      <td>Responsible Preservation of Research Data</td>
+      <td>
+        <a href="">Zoom link</a>
+      </td>
+      <td>
+        Join us to explore the ‘Checklist for the Responsible Preservation of Research Data’—a practical guide for researchers and research support professionals. The event uses a checklist originating from the University of Helsinki’s data preservation guidance (https://doi.org/10.5281/zenodo.10424017), yet the presentation and checklist are fully applicable beyond any single organisation.
+      </td>
+      <td>
+        <p><strong>Mari Elisa Kuusniemi</strong> works as an Information Specialist on Data support at the Helsinki University Library.</p>
+        <p><strong>Enrico Glerean</strong> is a staff scientist at the Aalto School of Science, core member of the Aalto Scientific Computing team. He helps researchers with their research software and teach massive online hands-on courses like "Python for Scientific Computing".</p>
       </td>
     </tr>
 
