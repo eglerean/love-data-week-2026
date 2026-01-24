@@ -43,12 +43,15 @@ Whatever your situation, this is your moment to pause, breathe, and give your da
 ---
 ## Setup and preparation
 
-Invite your research group to spend two or more hours to discuss and work with your own data practices. This is a self-administered event, so book your own room, coffee and most importantly a time slot! You can already now go through our RDM checklist to help decide which subject to dig into. **[Download the PDF Checklist]({{ site.baseurl }}{% link assets/LDW2026_cleanUp_checklist.pdf %})**
+Invite your research group to spend two or more hours to discuss and work with your own data practices. This is a <u>self-administered event</u>, so book your own room, coffee and most importantly a time slot! You can already now go through our RDM checklist to help decide which subject to dig into. **[Download the PDF Checklist]({{ site.baseurl }}{% link assets/LDW2026_cleanUp_checklist.pdf %})**
 
-
-During Love Data Week, you are offered a range of online presentations and workshops arranged the previous days by Nordic Universities. The presentations can be an inspiration for your group’s work. **[Presentations](https://dinhe878.github.io/love-data-week-2026/agenda/)**
+During Love Data Week, you are offered a range of online presentations and workshops arranged the previous days by Nordic Universities. The presentations can be an inspiration for your group’s work. **[Cehck out Presentations](https://dinhe878.github.io/love-data-week-2026/agenda/)**
 
 Your university may also offer tailored workshops or consultations. Reach out to your library or data management support office — they’re always happy to help.
+
+**[DTU Library Event Page](https://www.bibliotek.dtu.dk/kalender/love-data-week-12022026?id=2052c3ae-a938-4ae3-8e09-6a92d824101d)**<br>
+**[KTH Library Event Page](https://www.kth.se/en/biblioteket/nyheter/valkommen-till-arets-love-data-week-1.1452401)**<br>
+**[SciComp garage at Aalto University](https://scicomp.aalto.fi/help/garage/)**
 
 ---
 ## Share your work
