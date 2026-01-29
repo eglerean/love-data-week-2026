@@ -133,8 +133,8 @@ menu_icon: clock
         <strong>Ding He</strong> is trained as researcher with a diverse background in biological science and bioinformatics. He is currently working as Research Data Steward at BRIGHT, DTU Denmark.
       </td>
     </tr>
-
-<tr>
+    
+    <tr>
       <td>13:30 – 14:00</td>
       <td>Introduction to Data Publishing and Zenodo</td>
       <td><a href="[https://chalmers.zoom.us/j/67731408024](https://chalmers.zoom.us/j/67731408024)">Zoom link (Password: 391961)</a></td>
