@@ -32,7 +32,7 @@ menu_icon: clock
     <tr>
       <td>10:30 – 11:00</td>
       <td>An introduction to Data Management Plans</td>
-      <td><a href="[https://deic.zoom.us/j/65412945886](https://chalmers.zoom.us/j/62197498507)">Zoom link (Password: 541484)</a></td>
+      <td><a href="[https://chalmers.zoom.us/j/62197498507](https://chalmers.zoom.us/j/62197498507)">Zoom link (Password: 541484)</a></td>
       <td>This introductory seminar provides an overview of Data Management Plans (DMPs). Participants will learn why DMPs are a useful element in a researcher's toolbox, and how they support good research practices across the research data lifecycle. The session also introduces key components of a DMP and points to tools and resources that can help researchers create effective plans.</td>
       <td>
         <strong>Jeremy Azzopardi</strong>  is a Digital Research Engineer at Chalmers e-Commons with over a decade of experience in research data management.<br>
@@ -131,6 +131,16 @@ menu_icon: clock
       </td>
       <td>
         <strong>Ding He</strong> is trained as researcher with a diverse background in biological science and bioinformatics. He is currently working as Research Data Steward at BRIGHT, DTU Denmark.
+      </td>
+    </tr>
+
+<tr>
+      <td>13:30 – 14:00</td>
+      <td>Introduction to Data Publishing and Zenodo</td>
+      <td><a href="[https://chalmers.zoom.us/j/67731408024](https://chalmers.zoom.us/j/67731408024)">Zoom link (Password: 391961)</a></td>
+      <td>This introductory seminar provides an overview of Data Publishing and data repositories, using Zenodo as an example. Participants will learn why publishing data is useful and how to do it using Zenodo.</td>
+      <td>
+        <strong>Jeremy Azzopardi</strong> is a Digital Research Engineer at Chalmers e-Commons with over a decade of experience in research data management.<br>
       </td>
     </tr>
 
