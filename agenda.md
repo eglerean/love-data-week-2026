@@ -234,16 +234,23 @@ menu_icon: clock
 
     <tr>
       <td>13:00 – 14:30</td>
-      <td>Responsible Preservation of Research Data</td>
+      <td>Responsible Preservation of Research Data & Data Available on Unreasonable Request</td>
       <td>
-        <a href="">Zoom link</a>
+        <a href="https://aalto.zoom.us/j/69830143932">Zoom link</a>
       </td>
       <td>
+        **Responsible Preservation of Research Data (Mari Elisa Kuusiniemi, University of Helsinki)**
+        <br/>
         Join us to explore the ‘Checklist for the Responsible Preservation of Research Data’—a practical guide for researchers and research support professionals. The event uses a checklist originating from the University of Helsinki’s data preservation guidance (https://doi.org/10.5281/zenodo.10424017), yet the presentation and checklist are fully applicable beyond any single organisation.
+        <br/>
+        <br/>
+        **Data Available on Unreasonable Request (Enrico Glerean, Aalto University)**
+        <br/>
+        Do you love open data? Do you conduct data appraisal? Data availability statements are basically mandatory in every field, but there are sometimes hurdles so that you can always make your data "available on reasonable request". In this short provocative talk Enrico will argue that maybe we can just be honest and tell that not all data is worth opening, and more resources and efforst should be invested on high quality datasets that truly have potential for reuse and new discoveries. 
       </td>
       <td>
         <p><strong>Mari Elisa Kuusniemi</strong> works as an Information Specialist on Data support at the Helsinki University Library.</p>
-        <p><strong>Enrico Glerean</strong> is a staff scientist at the Aalto School of Science, core member of the Aalto Scientific Computing team. He helps researchers with their research software and teach massive online hands-on courses like "Python for Scientific Computing".</p>
+        <p><strong>Enrico Glerean</strong> is a staff scientist at the Aalto School of Science, core member of the Aalto Scientific Computing team. He helps researchers with their research software and teaches the mandatory course on Research Ethics and hands-on courses like "CodeRefinery" and "Hands-on Data Protection".</p>
       </td>
     </tr>
 
