@@ -36,7 +36,7 @@ menu_icon: house-door
       </div>
 
       <div style="text-align: center; flex: 1; min-width: 100px;">
-        <div style="font-size: 2.5em; font-weight: bold; color: #2c3e50;">12+</div>
+        <div style="font-size: 2.5em; font-weight: bold; color: #2c3e50;">11+</div>
         <div style="font-size: 0.95em; color: #555;">Hours of Content</div>
       </div>
 
